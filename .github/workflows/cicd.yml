@@ -1,4 +1,4 @@
-name: Java CI with Maven test
+name: Java CI with Maven test1
 on:
   push:
     branches: [ "main" ]
